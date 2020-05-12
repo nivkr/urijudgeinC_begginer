@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589213664 source:c:\users\nicol\onedrive\Área de trabalho\alp\uri judge\urijudge1036\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
